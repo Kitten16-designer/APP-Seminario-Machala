@@ -1,2 +1,2 @@
-# APP-Seminario-Machala
-Aplicacion CI - CD y Seguridad - Seminario
+# app-seminario-mach
+test
